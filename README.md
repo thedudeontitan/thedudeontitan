@@ -13,7 +13,7 @@
 - :man_technologist: I'm currently working on various python projects.
 - :seedling: Exploring Data Science and Machine Learning.
 - :v: I'm looking for interesting open sources projects to contribute to.
-- ![discord badge](https://img.shields.io/badge/-738adb?style=flat&logo=Discord&logoColor=white) Reach out to me on Discord - Sirius#4019
+- ![discord badge](https://github.com/thedudeontitan/thedudeontitan/blob/master/assets/Discord-Logo-Circle-1536x1536.png) Reach out to me on Discord - Sirius#4019
 
 ---
 
