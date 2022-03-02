@@ -17,6 +17,5 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<img align=left width=50% src=("https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true">
+<img align=left width=50% src=("https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&layout=compact&theme=nord">
