@@ -17,9 +17,11 @@
 
 ---
 
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true">
 </br>
 </br>
 </br>
 </br>
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
+</br>
+</br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
