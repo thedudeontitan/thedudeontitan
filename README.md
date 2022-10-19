@@ -17,11 +17,11 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true">
 </br>
 </br>
 </br>
 </br>
 </br>
 </br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
+<img rc="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
