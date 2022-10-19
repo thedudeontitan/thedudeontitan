@@ -24,4 +24,4 @@
 </br>
 </br>
 </br>
-<img rc="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
