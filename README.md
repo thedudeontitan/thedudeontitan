@@ -10,9 +10,9 @@
 
 ### About Me :
 
-- :man_technologist: I'm currently working on various python projects.
-- :seedling: Exploring Data Science and Machine Learning.
-- :v: I'm looking for interesting open source projects to contribute to.
+- :man_technologist: Fullstack Web and Mobile Dev Freelancer.
+- 💻: Nextjs, Reactjs, Django, Flutter, React Native
+- 🤖: Web Scrapping and Automation
 - ![discord badge](https://github.com/thedudeontitan/thedudeontitan/blob/master/assets/Discord-Logo-Circle-1536x1536.png) Reach out to me on Discord - Sirius#4019
 
 ---
