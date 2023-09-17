@@ -17,6 +17,6 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thedudeontitan&theme=nord&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedudeontitan&theme=nord&show_icons=true&layout=compact">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedudeontitan&langs_count=8&theme=nord">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedudeontitan" alt="thedudeontitan" />
